@@ -1,0 +1,2 @@
+# Hidjati_MobileApp
+to design and create an application (mobile) for the orientation of pilgrims during Hajj and Umrah. This application aims to: - Enter the airport of arrival in Saudi Arabia and the country of departure. - Inform pilgrims of IHRAM location - Guidance of pilgrims step by step for Hajj and Umrah - Case study of Algerian pilgrims - Suggestions of visits to interesting places in Saudi Arabia
